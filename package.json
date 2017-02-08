@@ -2,7 +2,7 @@
   "name": "meantodos",
   "version": "1.0.0",
   "description": "Simple todos app made using MEAN stack!",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
